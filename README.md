@@ -6,6 +6,9 @@
 ## 🗨 Sobre
 Este é um código que eu desenvolvi para resolver um Exercício Programa (EP) da disciplina **Projeto e Análise de Algoritmo I** do curso de **Ciência da Computação**. O objetivo do programa é receber um texto de entrada do usuário e, através da probabilidade de ocorrência de letras deste texto, supor em qual idioma ele foi escrito. Neste EP, são consideradas apenas duas possibilidades de idioma: ***português e inglês***.
 
+
+**Aviso: O programa não é 100% preciso quanto a detecção dos idiomas citados.**
+
 ### ⚙ Funcionamento
 Uma breve explicação de como funciona o algoritmo:
 <ol>
@@ -25,6 +28,13 @@ Uma breve explicação de como funciona o algoritmo:
   <li>Faça o download do repositório.</li>
   <li>Extraia o arquivo .zip</li>
   <li>Abra a pasta que foi criada.</li>
+  <li>Clique duas vezes no arquivo 'ep.exe'</li>
+  <ul>
+    <li>Ao fazer isso, o terminal do Windows deverá abrir e mostrar o programa.</li>
+    <ul>
+      <li>Caso não abra no terminal, clique com o botão direito em cima do 'ep.exe' e selecione 'Abrir com'. Abra com o terminal do windows ou qualquer terminal de sua preferência.</li
+    </ul>
+  </ul>
 </ol>
 
 ### 💻 Tecnologias utilizadas
