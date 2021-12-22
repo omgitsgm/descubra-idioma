@@ -4,7 +4,7 @@
 ---
 
 ## 🗨 Sobre
-Este é um código que eu desenvolvi para resolver um Exercício Programa (EP) da disciplina **Projeto e Análise de Algoritmo I** do curso de **Ciência da Computação**. O objetivo do programa é receber um texto de entrada do usuário e, através da probabilidade de ocorrência de letras deste texto, supor em qual idioma ele foi escrito. Neste EP, são consideradas apenas duas possibilidades de idioma: ***português e inglês***.
+<p align="justify">Este é um código que eu desenvolvi para resolver um Exercício Programa (EP) da disciplina <b>Projeto e Análise de Algoritmo I</b> do curso de <b>Ciência da Computação</b>. O objetivo do programa é receber um texto de entrada do usuário e, através da probabilidade de ocorrência de letras deste texto, supor em qual idioma ele foi escrito. Neste EP, são consideradas apenas duas possibilidades de idioma: <b>português e inglês</b>.</p>
 
 <div>
   <img src="readme-files/funcionamento-portugues.png" width=49%/>
@@ -12,6 +12,8 @@ Este é um código que eu desenvolvi para resolver um Exercício Programa (EP) d
 </div>
 
 **Aviso: O programa não é 100% preciso quanto a detecção dos idiomas citados.**
+
+---
 
 ### ⚙ Funcionamento
 Uma breve explicação de como funciona o algoritmo:
@@ -48,9 +50,10 @@ Uma breve explicação de como funciona o algoritmo:
 
 ---
 
-Abaixo, farei uma breve explicação do que é a **'Probabilidade de Ocorrência de Letras'**. Caso tenha interesse em saber qual é o raciocínio por trás desse código, sugiro que leia este texto e visite o <a href="https://pt.wikipedia.org/wiki/Frequência_de_letras">link</a> utilizado como referência.
+<p align="justify">Abaixo, farei uma breve explicação do que é a <b>'Probabilidade de Ocorrência de Letras'</b>. Caso tenha interesse em saber qual é o raciocínio por trás desse código, sugiro que leia este texto e visite o <a href="https://pt.wikipedia.org/wiki/Frequência_de_letras">link</a> utilizado como referência.</p>
+
 ### 🔠 Probabilidade de Ocorrência de Letras
-A Probabilidade de Ocorrência de Letras é a probabilidade que cada letra do alfabeto tem de aparecer num determinado idioma. Quando falamos sobre diferentes idiomas, como por exemplo, o inglês e o português, devemos ter em mente que, as letras que mais aparecem na língua portuguesa e na língua inglesa são diferentes.
+<p align="justify">A Probabilidade de Ocorrência de Letras é a probabilidade que cada letra do alfabeto tem de aparecer num determinado idioma. Quando falamos sobre diferentes idiomas, como por exemplo, o inglês e o português, devemos ter em mente que, as letras que mais aparecem na língua portuguesa e na língua inglesa são diferentes.</p>
 <br>
 
 Abaixo, está a relação das letras que mais aparecem no **português**, por ordem decrescente de frequência:
@@ -281,7 +284,7 @@ Abaixo, está a relação das letras que mais aparecem no **inglês**, por ordem
 </table>
 <br>
 
-Portanto, analisando ambas as tabelas, podemos notar que cada idioma possui suas particularidades quanto a probabilidade de ocorrência de letras. Esses dados são extremamente importantes para o programa, pois só com eles é possível analisar letra-a-letra do texto inserido pelo usuário e supor, através da probabilidade, se trata-se de um texto em português ou em inglês. 
+<p align="justify">Portanto, analisando ambas as tabelas, podemos notar que cada idioma possui suas particularidades quanto a probabilidade de ocorrência de letras. Esses dados são extremamente importantes para o programa, pois só com eles é possível analisar letra-a-letra do texto inserido pelo usuário e supor, através da probabilidade, se trata-se de um texto em português ou em inglês.</p>
 <br>
 <br>
 Referência: <a href="https://pt.wikipedia.org/wiki/Frequência_de_letras">Frequência de Letras | Wikipédia</a>
