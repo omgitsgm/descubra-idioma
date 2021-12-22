@@ -6,6 +6,10 @@
 ## 🗨 Sobre
 Este é um código que eu desenvolvi para resolver um Exercício Programa (EP) da disciplina **Projeto e Análise de Algoritmo I** do curso de **Ciência da Computação**. O objetivo do programa é receber um texto de entrada do usuário e, através da probabilidade de ocorrência de letras deste texto, supor em qual idioma ele foi escrito. Neste EP, são consideradas apenas duas possibilidades de idioma: ***português e inglês***.
 
+<div>
+  <img src="readme-files/funcionamento-portugues.png" width=49%/>
+  <img src="readme-files/funcionamento-ingles.png" width=49%/>
+</div>
 
 **Aviso: O programa não é 100% preciso quanto a detecção dos idiomas citados.**
 
