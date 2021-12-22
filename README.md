@@ -6,7 +6,7 @@
 ## 🗨 Sobre
 Este é um código que eu desenvolvi para resolver um Exercício Programa (EP) da disciplina **Projeto e Análise de Algoritmo I** do curso de **Ciência da Computação**. O objetivo do programa é receber um texto de entrada do usuário e, através da probabilidade de ocorrência de letras deste texto, supor em qual idioma ele foi escrito. Neste EP, são consideradas apenas duas possibilidades de idioma: ***português e inglês***.
 
-## ⚙ Funcionamento
+### ⚙ Funcionamento
 Uma breve explicação de como funciona o algoritmo:
 <ol>
   <li>O programa recebe um texto de entrada, escrito pelo usuário, e o armazena em um array.</li>
@@ -34,7 +34,7 @@ Uma breve explicação de como funciona o algoritmo:
 
 ---
 
-Abaixo, farei uma breve explicação do que é a **'Probabilidade de Ocorrência de Letras'**. Caso tenha interesse em saber qual é o raciocínio por trás desse código, sugiro que leia este texto.
+Abaixo, farei uma breve explicação do que é a **'Probabilidade de Ocorrência de Letras'**. Caso tenha interesse em saber qual é o raciocínio por trás desse código, sugiro que leia este texto e visite o <a href="https://pt.wikipedia.org/wiki/Frequência_de_letras">link</a> utilizado como referência.
 ### 🔠 Probabilidade de Ocorrência de Letras
 A Probabilidade de Ocorrência de Letras é a probabilidade que cada letra do alfabeto tem de aparecer num determinado idioma. Quando falamos sobre diferentes idiomas, como por exemplo, o inglês e o português, devemos ter em mente que, as letras que mais aparecem na língua portuguesa e na língua inglesa são diferentes.
 <br>
